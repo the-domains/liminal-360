@@ -1,3 +1,4 @@
+layout_spectrum: 0.39234766783192754
 typography_spectrum: 0.882226983550936
 color:
   brandStrength: 0.48777814069762826
@@ -5,12 +6,9 @@ color:
   saturation: 0.082806192105636
   rhythmicContrast: 0.019921311642974615
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-layout_spectrum: 0.39234766783192754
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: Liminal 360
-title: Liminal 360
-description: 'Virtual Reality - Evocative, Immersive Visualisations'
